@@ -1,8 +1,8 @@
 # Getting Started with Create React App
+![Deployment YML](https://github.com/SKS-WAR/ci-cd/actions/workflows/react-deploy.yml/badge.svg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![React app deployement](https://github.com/SKS-WAR/ci-cd/actions/workflows/react-deploy.yml/badge.svg)
 
 ## Available Scripts
 
