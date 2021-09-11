@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 <img alt="GitHub Workflow Status (branch)" src="https://img.shields.io/github/workflow/status/SKS-WAR/ci-cd/React%20app%20deployement/development">
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/SKS-WAR/ci-cd">
+<img alt="Website" src="https://img.shields.io/website?down_message=down&up_color=blue&up_message=working&url=https%3A%2F%2Fsks-war.github.io%2Fci-cd%2F">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/SKS-WAR/ci-cd">
+
 ![Development YML](https://github.com/SKS-WAR/ci-cd/actions/workflows/npm-publish.yml/badge.svg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
